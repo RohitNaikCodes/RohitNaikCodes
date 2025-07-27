@@ -1,7 +1,7 @@
 <!-- Title with Typing Animation -->
 <h1 align="center">Hi there 👋, I'm Rohit Naik</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;C%2B%2B+%7C+DSA+Enthusiast;Tech+Community+Builder;Freelancer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;C%2B%2B+%7C+DSA;Tech+Community+Builder;Freelancer+%7C+Problem+Solver" alt="Typing SVG" />
 </h3>
 
 <!-- Badges -->
