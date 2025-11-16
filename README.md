@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RohitNaikCodes&show_icons=true&theme=radical" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 🌍 Visitors by Country
+### 🌍 Visitors by Country.
 
 <p align="center">
   <img src="https://geopass.app/api/visitors.svg?username=RohitNaikCodes" alt="Visitors Map" />
