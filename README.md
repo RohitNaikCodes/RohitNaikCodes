@@ -86,7 +86,7 @@
 
 ---
 
-### 🤝 Let’s Connect With Me
+### 🤝 Let’s Connect With Me..
 
 <p align="center">
   <a href="mailto:entrybyrohit@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
