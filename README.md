@@ -19,7 +19,7 @@
 
 ---
 
-### 🌟 About Me..
+### 🌟 About Me...
 
 - 👨‍💻 Currently I am **Campus Ambassador at E-Cell, IIT Bombay** & **Google Cloud Arcade Facilitator**
 - 🚀 Exploring: `MERN Stack`
