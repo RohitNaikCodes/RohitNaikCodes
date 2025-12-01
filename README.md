@@ -58,7 +58,7 @@
 
 ---
 
-### 🌍 Visitors by Country..
+### 🌍 Visitors by Country.
 
 <p align="center">
   <img src="https://geopass.app/api/visitors.svg?username=RohitNaikCodes" alt="Visitors Map" />
