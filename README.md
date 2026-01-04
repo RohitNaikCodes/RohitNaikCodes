@@ -28,7 +28,7 @@
   <table border="0">
     <tr>
       <td width="30%" align="center">
-        <img src="https://media.giphy.com/media/L1R1TVI9svkQQqdcXm/giphy.gif" width="150" alt="coding gif" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c401-433a-95ea-20e1cb19d9b6.gif" width="140" alt="coding gif" />
       </td>
       <td width="70%" align="left">
         <h3>🚀 <strong>About Me</strong></h3>
@@ -57,8 +57,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RohitNaikCodes&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitNaikCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitNaikCodes&theme=tokyonight&hide_border=true&background=00000000" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitNaikCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitNaikCodes&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="streak graph" />
 </div>
 
 <br />
