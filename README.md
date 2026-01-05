@@ -32,7 +32,7 @@
       </td>
       <td width="70%" align="left">
         <h3>🚀 <strong>About Me</strong></h3>
-        <em>"Build fast, fail fast, learn faster."</em><br/><br/>
+        <em>"Build fast, fail fast, learn faster..."</em><br/><br/>
         <ul>
             <li>🎓 <strong>Role:</strong> Campus Ambassador @ <b>E-Cell, IIT Bombay</b></li>
             <li>☁️ <strong>Cloud:</strong> Facilitator @ <b>Google Cloud Arcade</b></li>
