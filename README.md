@@ -37,7 +37,7 @@
             <li>🎓 <strong>Role:</strong> Campus Ambassador @ <b>E-Cell, IIT Bombay</b></li>
             <li>☁️ <strong>Cloud:</strong> Facilitator @ <b>Google Cloud Arcade</b></li>
             <li>💻 <strong>Stack:</strong> MERN (MongoDB, Express, React, Node)</li>
-            <li>🔥 <strong>Streak:</strong> 180+ Days of consistent DSA in C++</li>
+            <li>🔥 <strong>Streak:</strong> 180+ Days of consistent DSA in C++...</li>
         </ul>
       </td>
     </tr>
