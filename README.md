@@ -104,7 +104,7 @@ I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackatho
 
 <p>I am open to collaborations on <b>Open Source</b>, <b>EdTech tools</b>, and <b>Hackathons</b>.</p>
 
-<a href="mailto:connect@rohitnaik.dev"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Connect_Now-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /> </a> &nbsp; <a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_PROFILE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /> </a> &nbsp; <a href="https://www.google.com/search?q=https://github.com/rohit-naik"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Codebase-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" /> </a>
+<a href="mailto:entrybyrohit@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-entrybyrohit%40gmail.com-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /> </a> &nbsp; <a href="https://www.linkedin.com/in/rohit-rajan-naik/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /> </a>
 
 <br /> <h3 style="margin-top: 20px;">"Let's build something scalable." 🚀</h3>
 
