@@ -99,18 +99,16 @@ I treat my skills as atomic units that can be combined to solve complex problems
 I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
 
 
-# Clone my digital identity
-git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
+🤝 Connect & Collaborate
+<div align="center">
 
-# Contact Interface
-const contactInfo = {
-  email: "connect@rohitnaik.dev", // Reach out via email
-  linkedin: "[https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)",
-  github: "[https://github.com/rohit-naik](https://github.com/rohit-naik)"
-};
+<p>I am open to collaborations on <b>Open Source</b>, <b>EdTech tools</b>, and <b>Hackathons</b>.</p>
 
-console.log("Let's build something scalable.");
+<a href="mailto:connect@rohitnaik.dev"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Connect_Now-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /> </a> &nbsp; <a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_PROFILE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /> </a> &nbsp; <a href="https://www.google.com/search?q=https://github.com/rohit-naik"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Codebase-black%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" /> </a>
 
+<br /> <h3 style="margin-top: 20px;">"Let's build something scalable." 🚀</h3>
+
+</div>
 
 <details>
 <summary><strong>🔻 Click to view Academic Credentials</strong></summary>
