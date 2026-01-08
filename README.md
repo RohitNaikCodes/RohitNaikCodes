@@ -1,8 +1,3 @@
-Here is the final, polished code. Copy everything inside the code block below and paste it directly into your GitHub Profile `README.md`.
-
-**Note:** I have added placeholders (e.g., `LINK_TO_YOUR_LINKEDIN`) where you need to insert your actual profile links.
-
-```markdown
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,16 +13,16 @@ Here is the final, polished code. Copy everything inside the code block below an
   </p>
 
   <div id="badges">
-    <a href="LINK_TO_YOUR_LINKEDIN">
+    <a href="#">
       <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSA"/>
     </a>
-    <a href="LINK_TO_YOUR_GFG_PROFILE">
+    <a href="#">
       <img src="https://img.shields.io/badge/GFG-Campus_Mantri-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Campus Mantri"/>
     </a>
-    <a href="LINK_TO_YOUR_HACKERRANK">
+    <a href="#">
       <img src="https://img.shields.io/badge/HackerRank-Campus_Crew-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
     </a>
-    <a href="LINK_TO_YOUR_UNSTOP">
+    <a href="#">
       <img src="https://img.shields.io/badge/Unstop-Ambassador-1C4980?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
     </a>
   </div>
@@ -65,74 +60,3 @@ graph LR
     
     style A fill:#1e1e1e,stroke:#333,stroke-width:2px
     style G fill:#4285F4,stroke:#4285F4,stroke-width:2px,color:#fff
-
-```
-
-<br />
-
-## 🛠️ Technical Arsenal
-
-I treat my skills as atomic units that can be combined to solve complex problems.
-
-### **Core Competencies**
-
-* **Algorithmic Efficiency:** Leveraging **C++** for memory management and high-performance computing tasks.
-* **Rapid Prototyping:** Utilizing **Python** to build scalable backend logic and automate workflows.
-* **Cloud Fluency:** Active **Google Cloud Arcade Facilitator**, managing cloud resources and deployment pipelines.
-* **Community Engineering:** Proven ability to mobilize students via **Unstop** and **GFG** initiatives.
-
-> [!IMPORTANT]
-> **Metric of Success:** Currently leading technical culture at SSPM COE, directly impacting the learning curve of peers through workshops and resource distribution.
-
-<br />
-
-## 🗺️ The Roadmap (2025-2026 Vision)
-
-| Status | Milestone | Vision |
-| --- | --- | --- |
-| 🟢 | **DSA Mastery** | Solving 500+ LeetCode/GFG problems to master optimization. |
-| 🟡 | **Full-Stack Pivot** | Building a MERN stack application for campus resource management. |
-| 🟡 | **Open Source** | Making first major contribution to a top-tier repo. |
-| 🔴 | **Hackathon Win** | Leading a team to victory in a national-level Smart India Hackathon. |
-
-<br />
-
-## 🤝 Connect & Collaborate
-
-I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
-
-```bash
-# Clone my digital identity
-git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
-
-# Contact Interface
-const contactInfo = {
-  email: "connect@rohitnaik.dev", // Reach out via email
-  linkedin: "[linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)",
-  github: "[github.com/rohit-naik](https://github.com/rohit-naik)"
-};
-
-console.log("Let's build something scalable.");
-
-```
-
-<details>
-<summary><strong>🔻 Click to view Academic Credentials</strong></summary>
-<br />
-<ul>
-<li><strong>Institution:</strong> SSPM College of Engineering (SSPM COE)</li>
-<li><strong>Degree:</strong> B.E. Computer Engineering (1st Year)</li>
-<li><strong>Focus:</strong> Data Structures, Algorithms, Web Engineering</li>
-</ul>
-</details>
-
-<div align="center">
-<br />
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4285F4,100:0F9D58%26height%3D100%26section%3Dfooter" width="100%" />
-</div>
-
-```
-
-**Next Step:** Would you like me to write the content for a "pinned" repository (like a portfolio project) that this README links to, to complete the professional look?
-
-```
