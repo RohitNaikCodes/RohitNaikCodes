@@ -123,11 +123,4 @@ console.log("Let's build something scalable.");
 </ul>
 </details>
 
-<div align="center">
-<br />
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4285F4,100:0F9D58%26height%3D100%26section%3Dfooter" width="100%" />
-</div>
-
-```
-
-```
+<div align="center"> <br /> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4285F4,100:0F9D58%26height%3D100%26section%3Dfooter" width="100%" /> </div>
