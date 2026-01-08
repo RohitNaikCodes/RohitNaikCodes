@@ -62,7 +62,7 @@ graph LR
     style G fill:#4285F4,stroke:#4285F4,stroke-width:2px,color:#fff
 
 
-<br/>
+<br />
 
 ## 🛠️ Technical Arsenal
 
@@ -91,24 +91,7 @@ I treat my skills as atomic units that can be combined to solve complex problems
 
 <br />
 
-## 🤝 Connect & Collaborate
 
-I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
-
-```bash
-# Clone my digital identity
-git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
-
-# Contact Interface
-const contactInfo = {
-  email: "connect@rohitnaik.dev", // Reach out via email
-  linkedin: "[https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)",
-  github: "[https://github.com/rohit-naik](https://github.com/rohit-naik)"
-};
-
-console.log("Let's build something scalable.");
-
-```
 
 <details>
 <summary><strong>🔻 Click to view Academic Credentials</strong></summary>
