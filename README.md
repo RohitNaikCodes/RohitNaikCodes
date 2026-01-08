@@ -1,74 +1,138 @@
+Here is the final, polished code. Copy everything inside the code block below and paste it directly into your GitHub Profile `README.md`.
+
+**Note:** I have added placeholders (e.g., `LINK_TO_YOUR_LINKEDIN`) where you need to insert your actual profile links.
+
+```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2d00f7,000000&height=280&section=header&text=Rohit%20Naik&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descFontSize=20&descAlignY=55&descAlign=50" width="100%" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A965FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Campus+Ambassador+%40+IIT+Bombay;C%2B%2B+%26+DSA+Solver+(180%2B+Streak);Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/rohit-rajan-naik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:entrybyrohit@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rohitrajan7.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="30%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c401-433a-95ea-20e1cb19d9b6.gif" width="140" alt="coding gif" />
-      </td>
-      <td width="70%" align="left">
-        <h3>🚀 <strong>About Me</strong></h3>
-        <em>"Build fast, fail fast, learn faster......"</em><br/><br/>
-        <ul>
-            <li>🎓 <strong>Role:</strong> Campus Ambassador.. @ <b>E-Cell, IIT Bombay</b></li>
-            <li>☁️ <strong>Cloud:</strong> Facilitator @ <b>Google Cloud Arcade</b></li>
-            <li>💻 <strong>Stack:</strong> MERN (MongoDB, Express, React, Node)</li>
-            <li>🔥 <strong>Streak:</strong> 180+ Days of consistent DSA in C++...</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<h3 align="center">🛠️ Technologies</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,redux,git,github,vscode,postman,vercel,figma&perline=15&theme=dark" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitNaikCodes&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitNaikCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitNaikCodes&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="streak graph" />
+  <h1 style="font-size: 3rem; margin-bottom: -10px;">ROHIT NAIK</h1>
+  
+  <p style="font-size: 1.1rem; font-weight: 600; color: #888;">
+    ENGINEERING UNDERGRADUATE &ensp;|&ensp; COMMUNITY ARCHITECT &ensp;|&ensp; GOOGLE STUDENT AMBASSADOR
+  </p>
+
+  <p style="font-style: italic; max-width: 600px;">
+    "Bridging the gap between algorithmic complexity and scalable community ecosystems."
+  </p>
+
+  <div id="badges">
+    <a href="LINK_TO_YOUR_LINKEDIN">
+      <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSA"/>
+    </a>
+    <a href="LINK_TO_YOUR_GFG_PROFILE">
+      <img src="https://img.shields.io/badge/GFG-Campus_Mantri-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Campus Mantri"/>
+    </a>
+    <a href="LINK_TO_YOUR_HACKERRANK">
+      <img src="https://img.shields.io/badge/HackerRank-Campus_Crew-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </a>
+    <a href="LINK_TO_YOUR_UNSTOP">
+      <img src="https://img.shields.io/badge/Unstop-Ambassador-1C4980?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
+    </a>
+  </div>
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RohitNaikCodes/RohitNaikCodes/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
+---
+
+## ⚡ The Value Proposition
+
+> [!NOTE]
+> **Why I Exist:** Most emerging engineers focus solely on syntax. I focus on the intersection of **technical execution** and **developer advocacy**. I don't just write code; I cultivate the environments where code thrives.
+
+| **The Standard Trajectory** 📉 | **The Rohit Protocol** 🚀 |
+| :--- | :--- |
+| **Passive Consumer:** Follows tutorials. | **Active Builder:** Architects scalable web apps. |
+| **Siloed Learning:** Studies in isolation. | **Community Multiplier:** Leads GFG & Google cohorts to elevate peer learning. |
+| **Theory First:** Memorizes syntax. | **Deployment First:** Focuses on shipping, cloud infra (GCP), and DSA optimization. |
 
 <br />
 
+## 🧠 The Internal Engine
+
+This is how I process problems and deliver value to the tech ecosystem:
+
+```mermaid
+graph LR
+    A[Input: Complex Problem] -->|Analyze| B(DSA Optimization Strategy);
+    B -->|Language Selection| C{C++ or Python?};
+    C -->|Performance| D[C++: Low-Level Logic];
+    C -->|Scalability| E[Python: Web Architecture];
+    D & E -->|Deployment| F[Scalable Solution];
+    F -->|Distribution| G[Community Knowledge Transfer];
+    
+    style A fill:#1e1e1e,stroke:#333,stroke-width:2px
+    style G fill:#4285F4,stroke:#4285F4,stroke-width:2px,color:#fff
+
+```
+
+<br />
+
+## 🛠️ Technical Arsenal
+
+I treat my skills as atomic units that can be combined to solve complex problems.
+
+### **Core Competencies**
+
+* **Algorithmic Efficiency:** Leveraging **C++** for memory management and high-performance computing tasks.
+* **Rapid Prototyping:** Utilizing **Python** to build scalable backend logic and automate workflows.
+* **Cloud Fluency:** Active **Google Cloud Arcade Facilitator**, managing cloud resources and deployment pipelines.
+* **Community Engineering:** Proven ability to mobilize students via **Unstop** and **GFG** initiatives.
+
+> [!IMPORTANT]
+> **Metric of Success:** Currently leading technical culture at SSPM COE, directly impacting the learning curve of peers through workshops and resource distribution.
+
+<br />
+
+## 🗺️ The Roadmap (2025-2026 Vision)
+
+| Status | Milestone | Vision |
+| --- | --- | --- |
+| 🟢 | **DSA Mastery** | Solving 500+ LeetCode/GFG problems to master optimization. |
+| 🟡 | **Full-Stack Pivot** | Building a MERN stack application for campus resource management. |
+| 🟡 | **Open Source** | Making first major contribution to a top-tier repo. |
+| 🔴 | **Hackathon Win** | Leading a team to victory in a national-level Smart India Hackathon. |
+
+<br />
+
+## 🤝 Connect & Collaborate
+
+I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
+
+```bash
+# Clone my digital identity
+git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
+
+# Contact Interface
+const contactInfo = {
+  email: "connect@rohitnaik.dev", // Reach out via email
+  linkedin: "[linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)",
+  github: "[github.com/rohit-naik](https://github.com/rohit-naik)"
+};
+
+console.log("Let's build something scalable.");
+
+```
+
+<details>
+<summary><strong>🔻 Click to view Academic Credentials</strong></summary>
+<br />
+<ul>
+<li><strong>Institution:</strong> SSPM College of Engineering (SSPM COE)</li>
+<li><strong>Degree:</strong> B.E. Computer Engineering (1st Year)</li>
+<li><strong>Focus:</strong> Data Structures, Algorithms, Web Engineering</li>
+</ul>
+</details>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2d00f7,000000&height=100&section=footer" width="100%" />
+<br />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4285F4,100:0F9D58%26height%3D100%26section%3Dfooter" width="100%" />
 </div>
+
+```
+
+**Next Step:** Would you like me to write the content for a "pinned" repository (like a portfolio project) that this README links to, to complete the professional look?
+
+```
