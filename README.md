@@ -9,7 +9,7 @@
   </p>
 
   <p style="font-style: italic; max-width: 600px;">
-    "Bridging the gap between algorithmic complexity and scalable community ecosystems."
+    "Bridging the gap between algorithmic complexity and scalable community ecosystems.."
   </p>
 
   <div id="badges">
