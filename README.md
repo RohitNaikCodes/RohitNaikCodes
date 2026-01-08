@@ -60,3 +60,74 @@ graph LR
     
     style A fill:#1e1e1e,stroke:#333,stroke-width:2px
     style G fill:#4285F4,stroke:#4285F4,stroke-width:2px,color:#fff
+
+
+
+```
+
+<br />
+
+## 🛠️ Technical Arsenal
+
+I treat my skills as atomic units that can be combined to solve complex problems.
+
+### **Core Competencies**
+
+* **Algorithmic Efficiency:** Leveraging **C++** for memory management and high-performance computing tasks.
+* **Rapid Prototyping:** Utilizing **Python** to build scalable backend logic and automate workflows.
+* **Cloud Fluency:** Active **Google Cloud Arcade Facilitator**, managing cloud resources and deployment pipelines.
+* **Community Engineering:** Proven ability to mobilize students via **Unstop** and **GFG** initiatives.
+
+> [!IMPORTANT]
+> **Metric of Success:** Currently leading technical culture at SSPM COE, directly impacting the learning curve of peers through workshops and resource distribution.
+
+<br />
+
+## 🗺️ The Roadmap (2025-2026 Vision)
+
+| Status | Milestone | Vision |
+| --- | --- | --- |
+| 🟢 | **DSA Mastery** | Solving 500+ LeetCode/GFG problems to master optimization. |
+| 🟡 | **Full-Stack Pivot** | Building a MERN stack application for campus resource management. |
+| 🟡 | **Open Source** | Making first major contribution to a top-tier repo. |
+| 🔴 | **Hackathon Win** | Leading a team to victory in a national-level Smart India Hackathon. |
+
+<br />
+
+## 🤝 Connect & Collaborate
+
+I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
+
+```bash
+# Clone my digital identity
+git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
+
+# Contact Interface
+const contactInfo = {
+  email: "connect@rohitnaik.dev", // Reach out via email
+  linkedin: "[https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)",
+  github: "[https://github.com/rohit-naik](https://github.com/rohit-naik)"
+};
+
+console.log("Let's build something scalable.");
+
+```
+
+<details>
+<summary><strong>🔻 Click to view Academic Credentials</strong></summary>
+<br />
+<ul>
+<li><strong>Institution:</strong> SSPM College of Engineering (SSPM COE)</li>
+<li><strong>Degree:</strong> B.E. Computer Engineering (1st Year)</li>
+<li><strong>Focus:</strong> Data Structures, Algorithms, Web Engineering</li>
+</ul>
+</details>
+
+<div align="center">
+<br />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:4285F4,100:0F9D58%26height%3D100%26section%3Dfooter" width="100%" />
+</div>
+
+```
+
+```
