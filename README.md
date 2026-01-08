@@ -98,7 +98,7 @@ I treat my skills as atomic units that can be combined to solve complex problems
 
 I am open to collaborations on **Open Source**, **EdTech tools**, and **Hackathons**.
 
-```bash
+
 # Clone my digital identity
 git clone [https://github.com/rohit-naik/collaboration.git](https://github.com/rohit-naik/collaboration.git)
 
@@ -111,7 +111,6 @@ const contactInfo = {
 
 console.log("Let's build something scalable.");
 
-```
 
 <details>
 <summary><strong>🔻 Click to view Academic Credentials</strong></summary>
