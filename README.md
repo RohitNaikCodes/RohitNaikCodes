@@ -41,7 +41,7 @@
 | :--- | :--- |
 | **Passive Consumer:** Follows tutorials. | **Active Builder:** Architects scalable web apps. |
 | **Siloed Learning:** Studies in isolation. | **Community Multiplier:** Leads GFG & Google cohorts to elevate peer learning. |
-| **Theory First:** Memorizes syntax. | **Deployment First:** Focuses on shipping, cloud infra (GCP), and DSA optimization. |
+| **Theory First:** Memorizes syntax. | **Deployment First:** Focuses on shipping, cloud infra (GCP), and DSA optimization... |
 
 <br />
 
